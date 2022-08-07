@@ -1,0 +1,5 @@
+type	username, password
+student 450102,450102
+teacher  24005,24005
+admin     hus,14540
+officer   3902,3902
